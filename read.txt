@@ -1,0 +1,28 @@
+https://dev.to/this-is-angular/how-to-fetch-data-using-the-providehttpclient-in-angular-5h47
+
+https://www.tutussfunny.com/
+https://www.tutussfunny.com/nodejs-angular-with-mongodb-crud-app/
+https://www.youtube.com/watch?v=_I1HFKm-gMI
+
+https://www.youtube.com/watch?v=_I1HFKm-gMI
+
+backend folder
+	npm init
+	----
+	inside folder	
+		npm install express
+		npm install mongoose
+	create file called server.js add some express server hello world code
+	-----------
+	> node server.js - if any error install the mongoose
+	> npm i mongoose@6.10.4
+---------------
+git init
+git clone https://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@github.com/yoga2016/node-payroll.git
+
+git remote add origin  https://github.com/yoga2016/node-payroll.git
+
+git add .  (all files move to staging)
+git status (we can check our position)
+
+git push -u origin main
