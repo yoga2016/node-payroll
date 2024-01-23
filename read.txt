@@ -25,4 +25,12 @@ git remote add origin  https://github.com/yoga2016/node-payroll.git
 git add .  (all files move to staging)
 git status (we can check our position)
 
+git remote add origin  https://github.com/yoga2016/node-payroll.git
+
+git rm -rf --cached frontEnd
+
 git push -u origin main
+
+git branch --set-upstream-to=origin/https://github.com/yoga2016/node-payroll.git master
+
+git push --force-with-lease origin master
